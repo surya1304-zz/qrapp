@@ -1,0 +1,23 @@
+#hello123 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+    border : 2px solid black;
+    padding-top: 30px;
+}
+
+#outlined-required
+{
+    margin-bottom: 15px;
+}
+
+#PlantDetails
+{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#submit {
+    padding-bottom: 20px;
+}

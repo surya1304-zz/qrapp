@@ -1,0 +1,25 @@
+.hello1{
+    padding-top: 100px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.fill{
+    padding-left: 250px;
+}
+
+#bel{
+    padding-top: 100px;
+}
+
+#but
+{
+    padding-top: 30px;
+}
+
+#jel {
+    display : none;
+    padding-top: 100px;
+    justify-content: center;
+}

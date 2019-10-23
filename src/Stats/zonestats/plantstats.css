@@ -1,0 +1,34 @@
+#hello1{
+    padding-top: 100px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+#hel{
+    font-size: 1.5em;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+}
+
+.hello123{
+    width: 40%;
+}
+
+.least{
+    padding-top: 100px;
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: 2fr 2fr;
+    justify-content: center;
+}
+
+.fill{
+    padding-left: 250px;
+}
+
+.surya
+{
+    display : none;
+}

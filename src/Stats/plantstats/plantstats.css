@@ -1,0 +1,36 @@
+#hello1{
+    padding-top: 100px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+#hel{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+}
+
+.hello123{
+    width: 40%;
+}
+
+.fill{
+    padding-left: 250px;
+}
+
+#green {
+    background-color: green;
+    height: 10px;
+    width: 10px;
+}
+
+#red{
+    background-color : red;
+    height: 10px;
+    width: 10px;
+}
+
+#cycleCard {
+    padding-bottom: 30px;
+}

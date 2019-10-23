@@ -1,0 +1,58 @@
+.hello {
+    display: flex;
+    justify-content: center;
+}
+
+.grid11{
+    margin: 20px;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+
+.key
+{
+    position: relative;
+}
+
+.zone
+{
+    padding-left: 10px;
+    position: absolute;
+    top: 0;
+    left : 0;
+}
+
+.block
+{
+    padding-right: 10px;
+    position : absolute;
+    top: 0;
+    right : 0;
+}
+
+.inverter
+{
+    padding-left: 10px;
+    position: absolute;
+    top: 30px;
+    left : 0;
+}
+
+.smb
+{
+    padding-right: 10px;
+    position : absolute;
+    top: 30px;
+    right : 0;
+}
+
+.rowtype
+{
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+#hello{
+    padding-top: 100px;
+}

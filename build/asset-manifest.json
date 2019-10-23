@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.de3e73aa.chunk.css",
+    "main.js": "/build/static/js/main.cd1c0e0d.chunk.js",
+    "main.js.map": "/build/static/js/main.cd1c0e0d.chunk.js.map",
+    "runtime~main.js": "/build/static/js/runtime~main.9df7376b.js",
+    "runtime~main.js.map": "/build/static/js/runtime~main.9df7376b.js.map",
+    "static/css/2.f5dea8d4.chunk.css": "/build/static/css/2.f5dea8d4.chunk.css",
+    "static/js/2.ada8f615.chunk.js": "/build/static/js/2.ada8f615.chunk.js",
+    "static/js/2.ada8f615.chunk.js.map": "/build/static/js/2.ada8f615.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.43a8d2ad30ca82b542221d057bd2a5ac.js": "/build/precache-manifest.43a8d2ad30ca82b542221d057bd2a5ac.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/2.f5dea8d4.chunk.css.map": "/build/static/css/2.f5dea8d4.chunk.css.map",
+    "static/css/main.de3e73aa.chunk.css.map": "/build/static/css/main.de3e73aa.chunk.css.map",
+    "static/media/0.png": "/build/static/media/0.1f771646.png",
+    "static/media/main.css": "/build/static/media/Poppins-Regular.731a28a4.ttf",
+    "static/media/font-awesome.css": "/build/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/build/static/media/rubik-latin-900italic.5b173e43.woff"
+  }
+}
